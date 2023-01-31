@@ -6,15 +6,15 @@
                     <ul class="topbar-information">
                         <li>
                             <i class="ri-phone-line"></i>
-                            <span>Phone: <a href="tel:9901234567">+990-123-4567</a></span>
+                            <span>Phone: <a href="tel:9901234567">+27 65 813 0434</a></span>
                         </li>
                         <li>
                             <i class="ri-mail-line"></i>
-                            <span>Mail: <a href="mailto:hikoze@gmail.com">hikoze@gmail.com</a></span>
+                            <span>Mail: <a href="mailto:info@brightgroupltd.com">info@brightgroupltd.com</a></span>
                         </li>
                         <li>
                             <i class="ri-map-pin-line"></i>
-                            <span>Address:</span> 413 North Las Vegas, NV 89032
+                            <span>Address:</span> Century City, Cape Town
                         </li>
                     </ul>
                 </div>

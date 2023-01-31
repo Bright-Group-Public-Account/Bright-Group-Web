@@ -8,10 +8,15 @@
                             <img src="../../assets/images/privacy-policy.jpg" alt="image">
                         </div>
 
-                        <p><i>This Privacy Policy was last updated on September 1, 2020.</i></p>
+                        <p><i>This Privacy Policy was last updated on Jan 13, 2023.</i></p>
                         <h3><span>1.</span> What Data We Get</h3>
                         <blockquote class="blockquote">
-                            <p>We collect certain data from you directly, like information you enter yourself, data about your participation in courses, and data from third-party platforms you connect with Koze. We also collect some data automatically, like information about your device and what parts of our Services you interact with or spend time using.</p>
+                            <p>We collect certain data from you directly, 
+                                like information you enter yourself, 
+                                data about your participation in courses, 
+                                and data from third-party platforms you connect with Koze.
+                                 We also collect some data automatically, 
+                                 like information about your device and what parts of our Services you interact with or spend time using.</p>
                         </blockquote>
                         <h3><span>2.</span> Data You Provide to Us</h3>
                         <p>We may collect different data from or about you depending on how you use the Services. Below are some examples to help you better understand the data we collect.</p>

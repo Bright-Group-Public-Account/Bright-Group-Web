@@ -19,7 +19,7 @@
                     <div class="overview-card">
                         <h3>Email Us</h3>
                         <span>
-                            <a href="mailto:hikoze@gmail.com">hikoze@gmail.com</a>
+                            <a href="mailto:info@brightgroupltd.com">info@brightgroupltd.com</a>
                         </span>
 
                         <div class="overview-shape">

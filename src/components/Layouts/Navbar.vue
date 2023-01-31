@@ -5,7 +5,7 @@
                 <div class="container-fluid">
                     <nav class="navbar navbar-expand-lg navbar-light">
                         <router-link class="navbar-brand" to="/">
-                            <img src="../../assets/images/logo.svg" alt="image">
+                            <img src="../../assets/images/Logo/android-chrome-192x192.png" alt="image">
                         </router-link>
 
                         <div class="navbar-toggler" @click="active = !active" :aria-pressed="active ? 'true' : 'false'"
@@ -265,7 +265,7 @@
                                                 Products
                                             </router-link>
                                         </li>
-                                        <li class="nav-item">
+                                        <!-- <li class="nav-item">
                                             <router-link to="/cart" class="nav-link">
                                                 Cart
                                             </router-link>
@@ -279,17 +279,17 @@
                                             <router-link to="/checkout" class="nav-link">
                                                 Checkout
                                             </router-link>
-                                        </li>
+                                        </li> -->
                                         <li class="nav-item">
                                             <router-link to="/profile-authentication" class="nav-link">
                                                 My Account
                                             </router-link>
                                         </li>
-                                        <li class="nav-item">
+                                        <!-- <li class="nav-item">
                                             <router-link to="/products-details" class="nav-link">
                                                 Products Details
                                             </router-link>
-                                        </li>
+                                        </li> -->
                                     </ul>
                                 </li>
 
@@ -415,7 +415,7 @@
 
                     <div class="modal-body">
                         <router-link to="/">
-                            <img src="../../assets/images/black-logo.svg" alt="logo">
+                            <img src="../../assets/images/Logo/main.png" alt="logo">
                         </router-link>
                         <div class="sidebar-content">
                             <h3>About Us</h3>

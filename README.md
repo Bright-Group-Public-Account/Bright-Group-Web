@@ -1,9 +1,11 @@
 # Bright Group Web
 
 #//TODO: Logo and Favicon
-   TODO: SEO
    TODO:First Page
    TODO: Content and Pictures
+
+   TODO:: Add keywords and H1 in Seo and Meta 
+   TODO:: Add SERP Generator in our meta
    
 
 ## Project setup
@@ -27,4 +29,4 @@ npm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+export NODE_OPTIONS=--openssl-legacy-provider

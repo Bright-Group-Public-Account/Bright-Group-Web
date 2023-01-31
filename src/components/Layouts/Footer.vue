@@ -9,15 +9,15 @@
                                 <img src="../../assets/images/logo.svg" alt="image">
                             </router-link>
                         </div>
-                        <p>Lorem ipsum dolor sit amet consetetur sadi scing elitr sed diam nonumy.</p>
+                        <p>Excellency Meets Quality</p>
 
                         <ul class="widget-social">
                             <li>
-                                <a href="https://www.facebook.com/EnvyTheme" target="_blank">
+                                <a href="https://web.facebook.com/brightgroupfb" target="_blank">
                                     <i class="ri-facebook-fill"></i>
                                 </a>
                             </li>
-                            <li>
+                            <!-- <li>
                                 <a href="https://twitter.com/?lang=en" target="_blank">
                                     <i class="ri-twitter-fill"></i>
                                 </a>
@@ -33,10 +33,10 @@
                                 <a href="https://vimeo.com/" target="_blank">
                                     <i class="ri-vimeo-fill"></i>
                                 </a>
-                            </li>
+                            </li> -->
                             
                             <li>
-                                <a href="https://www.instagram.com/" target="_blank">
+                                <a href="https://www.instagram.com/bright_group_/" target="_blank">
                                     <i class="ri-instagram-line"></i>
                                 </a>
                             </li>
@@ -90,8 +90,8 @@
             <div class="container">
                 <div class="copyright-area-content">
                     <p>
-                        &copy; {{currentYear}} Koze All Rights Reserved by
-                        <a href="https://envytheme.com/" target="_blank"> EnvyTheme</a>
+                        &copy; {{currentYear}} Bright Group All Rights Reserved by
+                        <a href="https://www.brightgroupltd.com/" target="_blank"> Bright Group</a>
                     </p>
                 </div>
             </div>

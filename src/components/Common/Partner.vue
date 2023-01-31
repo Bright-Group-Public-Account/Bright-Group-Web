@@ -44,33 +44,33 @@ export default defineComponent ({
         carouselItems: [
             {
                 id: 1,
-                image: require('../../assets/images/partner/partner-1.png'),
-                imageHover: require('../../assets/images/partner/partner-hover-1.png'),
+                image: require('../../assets/images/partner/Google.png'),
+                imageHover: require('../../assets/images/partner/Google-Hover.png'),
             },
             {
                 id: 2,
-                image: require('../../assets/images/partner/partner-2.png'),
-                imageHover: require('../../assets/images/partner/partner-hover-2.png'),
+                image: require('../../assets/images/partner/tests/Discovery-Channel-earth-logo-removebg-preview.png'),
+                imageHover: require('../../assets/images/partner/tests/Discovery-Channel-removebg-preview.png'),
             },
             {
                 id: 3,
-                image: require('../../assets/images/partner/partner-3.png'),
-                imageHover: require('../../assets/images/partner/partner-hover-3.png'),
+                image: require('../../assets/images/partner/tests/Marshall-removebg-preview.png'),
+                imageHover: require('../../assets/images/partner/tests/Marshall-removebg-preview.png'),
             },
             {
                 id: 4,
-                image: require('../../assets/images/partner/partner-4.png'),
-                imageHover: require('../../assets/images/partner/partner-hover-4.png'),
+                image: require('../../assets/images/partner/tests/ipic-removebg-preview.png'),
+                imageHover: require('../../assets/images/partner/tests/ipic.jpg'),
             },
             {
                 id: 5,
-                image: require('../../assets/images/partner/partner-5.png'),
-                imageHover: require('../../assets/images/partner/partner-hover-5.png'),
+                image: require('../../assets/images/partner/tests/Collector_wit_transparant.png'),
+                imageHover: require('../../assets/images/partner/tests/60eec41e2d892dada353bab858fc0c3f-removebg-preview.png'),
             },
             {
                 id: 6,
-                image: require('../../assets/images/partner/partner-6.png'),
-                imageHover: require('../../assets/images/partner/partner-hover-6.png'),
+                image: require('../../assets/images/partner/tests/AQA_Logo_2020.png'),
+                imageHover: require('../../assets/images/partner/tests/assessment-and-qualifications-alliance-aqa-logo-9E81DF2E0E-seeklogo.com.png'),
             },
         ],
         breakpoints: {
