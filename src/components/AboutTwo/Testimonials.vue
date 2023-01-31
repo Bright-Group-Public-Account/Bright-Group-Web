@@ -10,7 +10,7 @@
                         <p>We are leading technology solutions providing company all over the world doing over 40 years. lorem ipsum dolor sit amet consetetur.</p>
 
                         <div class="testimonials-btn">
-                            <router-link to="/about-style-1" class="default-btn">Know More About Us</router-link>
+                            <router-link to="about" class="default-btn">Know More About Us</router-link>
                         </div>
                     </div>
                 </div>

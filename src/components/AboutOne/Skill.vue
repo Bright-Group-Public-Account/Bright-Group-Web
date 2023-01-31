@@ -77,7 +77,7 @@
                     </div>
 
                     <div class="skill-bar-btn" data-aos="fade-up" data-aos-delay="90" data-aos-duration="900" data-aos-once="true">
-                        <router-link to="/about-style-1" class="default-btn">Explore More</router-link>
+                        <router-link to="about" class="default-btn">Explore More</router-link>
                     </div>
                 </div>
 

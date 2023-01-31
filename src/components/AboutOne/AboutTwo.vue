@@ -24,7 +24,7 @@
                             <p>Lorem ipsum dolor sit amet consetetur sadip scing elitr sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyamei erat sed diam voluptua at vero eos et accusam et justo duo.</p>
 
                             <div class="about-btn">
-                                <router-link to="/about-style-1" class="default-btn">Know More About Us</router-link>
+                                <router-link to="about" class="default-btn">Know More About Us</router-link>
                             </div>
                         </div>
                     </div>

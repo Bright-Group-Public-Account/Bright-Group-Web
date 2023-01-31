@@ -6,7 +6,7 @@
                     <div class="single-footer-widget" data-aos="fade-up" data-aos-delay="50" data-aos-duration="500" data-aos-once="true">
                         <div class="widget-logo">
                             <router-link to="/">
-                                <img src="../../assets/images/logo.svg" alt="image">
+                                <img src="../../assets/images/Logo/android-chrome-192x192.png" alt="image">
                             </router-link>
                         </div>
                         <p>Excellency Meets Quality</p>
@@ -49,7 +49,7 @@
                         <h3>Links</h3>
 
                         <ul class="quick-links">
-                            <li><router-link to="/about-style-1">About Us</router-link></li>
+                            <li><router-link to="about">About Us</router-link></li>
                             <li><router-link to="/services-style-2">Services</router-link></li>
                             <li><router-link to="/blog-style-1">News</router-link></li>
                             <li><router-link to="/pricing">Pricing</router-link></li>

@@ -14,7 +14,7 @@
                         <p>We are leading technology solutions providing company all over the world doing over 40 years lorem ipsum dolor sit amet.</p>
                         <p>We are leading technology solutions providing company all over the world doing over 40 years. Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam non umy eirmod tempor invidunt ut labore.</p>
                         <div class="about-btn">
-                            <router-link to="/about-style-1" class="default-btn">
+                            <router-link to="about" class="default-btn">
                                 Know More About Us
                             </router-link>
                         </div>

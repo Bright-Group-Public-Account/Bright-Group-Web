@@ -52,7 +52,7 @@ const routes = [
   { path: "/", name: "HomePageOne", component: HomePageOne },
   { path: "/home-two", name: "HomePageTwo", component: HomePageTwo },
   { path: "/home-three", name: "HomePageThree", component: HomePageThree },
-  { path: "/about-style-1", name: "AboutPageOne", component: AboutPageOne },
+  { path: "/about", name: "AboutPageOne", component: AboutPageOne },
   { path: "/about-style-2", name: "AboutPageTwo", component: AboutPageTwo },
   { path: "/about-style-3", name: "AboutPageThree", component: AboutPageThree },
   { path: "/gallery", name: "GalleryPage", component: GalleryPage },
@@ -62,7 +62,7 @@ const routes = [
     component: TestimonialsPage,
   },
   {
-    path: "/services-style-1",
+    path: "/services",
     name: "ServicesPageOne",
     component: ServicesPageOne,
   },

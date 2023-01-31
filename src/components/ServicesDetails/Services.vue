@@ -9,7 +9,7 @@
                         <h3>We Provide the Best Quality <b>Services</b></h3>
                         <p>We are technology solutions providing company all over the world doing over 40 years.</p>
                         <div class="services-section-btn">
-                            <router-link to="/services-style-1" class="default-btn">
+                            <router-link to="/services" class="default-btn">
                                 Explore All Services
                             </router-link>
                         </div>

@@ -55,7 +55,7 @@
 
                                         <ul class="dropdown-menu">
                                             <li class="nav-item">
-                                                <router-link to="/about-style-1" class="nav-link">
+                                                <router-link to="about" class="nav-link">
                                                     About Style One
                                                 </router-link>
                                             </li>
@@ -90,7 +90,7 @@
 
                                         <ul class="dropdown-menu">
                                             <li class="nav-item">
-                                                <router-link to="/services-style-1" class="nav-link">
+                                                <router-link to="/services" class="nav-link">
                                                     Services Style One
                                                 </router-link>
                                             </li>

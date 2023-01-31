@@ -76,7 +76,7 @@ export default defineComponent ({
                 heading: 'We Make The Best IT Solutions',
                 description: 'We are leading technology solutions providing company all over the world doing over 40 years. Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor.',
                 image: require('../../assets/images/home-slides/slides-1.png'),
-                btnLink: '/services-style-1',
+                btnLink: '/services',
                 btnText: 'Get Started'
             },
             {
@@ -85,7 +85,7 @@ export default defineComponent ({
                 heading: 'Best IT Services For Your Business',
                 description: 'We are leading technology solutions providing company all over the world doing over 40 years. Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam nonumy eirmod tempor.',
                 image: require('../../assets/images/home-slides/slides-2.png'),
-                btnLink: '/services-style-1',
+                btnLink: '/services',
                 btnText: 'Get Started'
             },
         ],

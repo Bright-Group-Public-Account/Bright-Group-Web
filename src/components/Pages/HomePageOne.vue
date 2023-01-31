@@ -46,4 +46,6 @@ export default {
         Footer,
     }
 }
+
+window.alert("Thank you for visiting us. Please note that we are busy updating this site. Alot of function wont be displayed well. We apologise for that.");
 </script>

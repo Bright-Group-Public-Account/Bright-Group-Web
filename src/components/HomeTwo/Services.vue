@@ -78,7 +78,7 @@
             </div>
 
             <div class="services-all-btn">
-                <router-link to="/services-style-1" class="default-btn">
+                <router-link to="/services" class="default-btn">
                     Explore All Services
                 </router-link>
             </div>

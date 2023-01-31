@@ -49,7 +49,7 @@
                             <h3 class="widget-title">Popular Link</h3>
                             
                             <ul class="list">
-                                <li><router-link to="/about-style-1">About Us</router-link></li>
+                                <li><router-link to="about">About Us</router-link></li>
                                 <li><router-link to="/contact">Contact Us</router-link></li>
                                 <li><router-link to="/purchase-guide">Purchase Guide</router-link></li>
                                 <li><router-link to="/privacy-policy">Privacy Policy</router-link></li>
