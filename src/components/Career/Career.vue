@@ -10,25 +10,26 @@
                 <div class="row align-items-center">
                     <div class="col-lg-9 col-md-9">
                         <div class="career-content">
-                            <h3>
+                            <h3>There are no vacancies for the moment</h3>
+                            <!-- <h3>
                                 <router-link to="/career-details">Team Lead - Digital Marketing</router-link>
                             </h3>
                             <p>Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Praesent sapien massa, convallis a pellentesque nec egestas non nisi. Mauris blandit aliquet elit eget tincidunt nibh pulvinar rutrum congue leo eget malesuada.</p>
                             <ul class="list">
                                 <li><span>Location:</span> New York, USA</li>
                                 <li><span>Type:</span> Full Time</li>
-                            </ul>
+                            </ul> -->
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-3">
                         <div class="career-btn text-end">
-                            <router-link to="/contact" class="default-btn">Get Started</router-link>
+                            <router-link to="/contact" class="default-btn">Get Notified</router-link>
                         </div>
                     </div>
                 </div>
             </div>
 
-            <div class="career-item">
+            <!-- <div class="career-item">
                 <div class="row align-items-center">
                     <div class="col-lg-9 col-md-9">
                         <div class="career-content">
@@ -114,7 +115,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div>-->
 
             <div class="pagination-area">
                 <router-link to="/career" class="prev page-numbers"><i class="ri-arrow-left-s-line"></i></router-link>
@@ -123,7 +124,7 @@
                 <router-link to="/career" class="page-numbers">3</router-link>
                 <router-link to="/career" class="next page-numbers"><i class="ri-arrow-right-s-line"></i></router-link>
             </div>
-        </div>
+        </div> 
     </div>
 </template>
 

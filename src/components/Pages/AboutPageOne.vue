@@ -2,7 +2,7 @@
     <div>
         <Topbar />
         <Navbar />
-        <PageBanner pageTitle="About Style One" className="page-banner-area" />
+        <PageBanner pageTitle="About Us" className="page-banner-area" />
         <About />
         <Partner />
         <AboutTwo />
@@ -24,7 +24,7 @@ import Partner from '../Common/Partner'
 import AboutTwo from '../AboutOne/AboutTwo'
 import ChooseUs from '../AboutOne/ChooseUs'
 import Skill from '../AboutOne/Skill'
-import Pricing from '../Common/Pricing'
+// import Pricing from '../Common/Pricing'
 import Talk from '../Common/Talk'
 import Blog from '../Common/Blog'
 import Footer from '../Layouts/Footer'
@@ -40,7 +40,7 @@ export default {
         AboutTwo,
         ChooseUs,
         Skill,
-        Pricing,
+        // Pricing,
         Talk,
         Blog,
         Footer,

@@ -21,12 +21,12 @@ import MainBanner from '../HomeOne/MainBanner'
 import Partner from '../Common/Partner'
 import About from '../HomeOne/About'
 import Services from '../HomeOne/Services'
-// import ChooseUs from '../HomeOne/ChooseUs'
+import ChooseUs from '../AboutOne/ChooseUs'
 import Video from '../HomeOne/Video'
 import Projects from '../HomeOne/Projects'
 // import Testimonials from '../HomeOne/Testimonials'
 // import Pricing from '../Common/Pricing'
-// import Blog from '../Common/Blog'
+import Blog from '../Common/Blog'
 import Footer from '../Layouts/Footer'
 
 export default {
@@ -37,12 +37,12 @@ export default {
         Partner,
         About,
         Services,
-        // ChooseUs,
+        ChooseUs,
         Video,
         Projects,
         // Testimonials,
         // Pricing,
-        // Blog,
+        Blog,
         Footer,
     }
 }

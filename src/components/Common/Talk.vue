@@ -16,7 +16,7 @@
                     <div class="talk-content">
                         <span>LET'S TALK</span>
                         <h3>We Would Like To Hear From You Any Question</h3>
-                        <p>Lorem ipsum dolor sit amet consetetur sadipscing elitre sed diam non umy eirmod tempor invidunt ut labore.</p>
+                        <p>Share Your Questions Now!</p>
 
                         <form id="contactFormTwo">
                             <div class="row">

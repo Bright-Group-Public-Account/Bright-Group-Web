@@ -2,7 +2,7 @@
     <div>
         <Topbar />
         <Navbar />
-        <PageBanner pageTitle="Team" className="page-banner-area bg-5" />
+        <PageBanner pageTitle="Our Team" className="page-banner-area bg-5" />
         <Team />
         <Overview />
         <Footer class="margin-zero" />

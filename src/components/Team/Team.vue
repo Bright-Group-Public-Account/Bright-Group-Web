@@ -4,7 +4,7 @@
             <div class="section-title section-style-two">
                 <span>TEAM MEMBER</span>
                 <h2>Our Expert IT Consultants</h2>
-                <p>We are leading technology solutions providing company all over the world doing over 40 years lorem ipsum dolor sit amet.</p>
+                <p>A group of talented professionals with diverse and unique skill sets. We're passionate about <b>creating innovative products</b> that make life easier for people. For the last eighteen years, we've been developing products that have been making an impact on people's lives in ways they never imagined. Our products have received critical acclaim, with customers giving us 4.9/5 ratings across all reviews. We're here to help you and your business succeed!</p>
             </div>
 
             <div class="row justify-content-center">
