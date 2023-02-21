@@ -10,9 +10,8 @@
                 <div class="col-lg-6 col-md-12">
                     <div class="about-content" data-aos="fade-up" data-aos-delay="80" data-aos-duration="800" data-aos-once="true">
                         <span>WHO WE ARE</span>
-                        <h3>We Are <b>All In One</b> IT Solution & Technology Company</h3>
-                        <p>We are leading technology solutions providing company all over the world doing over 40 years lorem ipsum dolor sit amet.</p>
-                        <p>We are leading technology solutions providing company all over the world doing over 40 years. Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam non umy eirmod tempor invidunt ut labore.</p>
+                        <h3>Solution <b>&amp;</b> Technology Company</h3>
+                        <p>Get the edge you need to propel your business forward with our cutting-edge IT <strong>Services</strong> and <strong>Technologies</strong>. Rest assured that you'll be working with a <strong>Reliable</strong> and <strong>Top Notch</strong> company.</p>
                         <div class="about-btn">
                             <router-link to="about" class="default-btn">
                                 Know More About Us

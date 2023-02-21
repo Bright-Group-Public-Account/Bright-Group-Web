@@ -254,7 +254,7 @@
                                     </ul>
                                 </li>
 
-                                <li class="nav-item">
+                                <!-- <li class="nav-item">
                                     <a href="#" class="nav-link">
                                         Shop
                                         <i class="ri-arrow-down-s-line"></i>
@@ -265,7 +265,7 @@
                                                 Products
                                             </router-link>
                                         </li>
-                                        <!-- <li class="nav-item">
+                                       <li class="nav-item">
                                             <router-link to="/cart" class="nav-link">
                                                 Cart
                                             </router-link>
@@ -279,19 +279,19 @@
                                             <router-link to="/checkout" class="nav-link">
                                                 Checkout
                                             </router-link>
-                                        </li> -->
+                                        </li> 
                                         <li class="nav-item">
                                             <router-link to="/profile-authentication" class="nav-link">
                                                 My Account
                                             </router-link>
                                         </li>
-                                        <!-- <li class="nav-item">
+                                       <li class="nav-item">
                                             <router-link to="/products-details" class="nav-link">
                                                 Products Details
                                             </router-link>
-                                        </li> -->
+                                        </li> 
                                     </ul>
-                                </li>
+                                </li> -->
 
                                 <!-- <li class="nav-item">
                                     <a href="#" class="nav-link">

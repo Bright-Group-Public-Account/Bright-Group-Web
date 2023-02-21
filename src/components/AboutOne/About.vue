@@ -11,8 +11,7 @@
                     <div class="about-content" data-aos="fade-up" data-aos-delay="80" data-aos-duration="800" data-aos-once="true">
                         <span>WHO WE ARE</span>
                         <h3>We Are <b>All In One</b> IT Solution & Technology Company</h3>
-                        <p>We are leading technology solutions providing company all over the world doing over 40 years lorem ipsum dolor sit amet.</p>
-                        <p>We are leading technology solutions providing company all over the world doing over 40 years. Lorem ipsum dolor sit amet consetetur sadipscing elitr sed diam non umy eirmod tempor invidunt ut labore.</p>
+                        <p>We offer a variety of IT services and cutting-edge technology to help your business succeed. Our team of experienced professionals is dedicated to providing you the best solutions. Put your trust in us today!</p>
                         <div class="about-btn">
                             <router-link to="about" class="default-btn">
                                 Know More About Us

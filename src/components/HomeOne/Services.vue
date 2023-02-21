@@ -5,8 +5,8 @@
                 <div class="col-lg-4 col-md-12">
                     <div class="services-section-content" data-aos="fade-down" data-aos-delay="80" data-aos-duration="800" data-aos-once="true">
                         <span>SERVICES</span>
-                        <h3>We Provide the Best Quality <b>Services</b></h3>
-                        <p>We are technology solutions providing company all over the world doing over 40 years.</p>
+                        <h3>We Give the Most Appealing <b>Quality Services</b></h3>
+                        <p>Serving Companies all over the world doing over 18 years.</p>
                         <div class="services-section-btn">
                             <router-link to="/services" class="default-btn">
                                 Explore All Services
@@ -76,7 +76,7 @@ export default defineComponent ({
                 id: 1,
                 image: require('../../assets/images/services/services-1.jpg'),
                 title: 'Software Development',
-                desc: 'Lorem ipsum dolor sit amet con setetur sadipscing elitr sed…',
+                desc: 'We are dedicated to providing the best software designers to help create innovative and effective software solutions.',
                 link: '/services-details',
                 btnText: 'View More',
             },
@@ -84,7 +84,7 @@ export default defineComponent ({
                 id: 2,
                 image: require('../../assets/images/services/services-2.jpg'),
                 title: 'App Development',
-                desc: 'Lorem ipsum dolor sit amet con setetur sadipscing elitr sed…',
+                desc: 'Looking for the best software designers to help with your app development? Look no further - we have got the perfect team to create the app of your dreams!',
                 link: '/services-details',
                 btnText: 'View More',
             },
@@ -92,7 +92,7 @@ export default defineComponent ({
                 id: 3,
                 image: require('../../assets/images/services/services-3.jpg'),
                 title: 'Web Development',
-                desc: 'Lorem ipsum dolor sit amet con setetur sadipscing elitr sed…',
+                desc: 'We pride ourselves on providing the best software designers for web development projects.',
                 link: '/services-details',
                 btnText: 'View More',
             },
@@ -100,7 +100,7 @@ export default defineComponent ({
                 id: 4,
                 image: require('../../assets/images/services/services-4.jpg'),
                 title: 'Analytic Solutions',
-                desc: 'Lorem ipsum dolor sit amet con setetur sadipscing elitr sed…',
+                desc: 'detailed, best-in-class analytic solutions',
                 link: '/services-details',
                 btnText: 'View More',
             },
