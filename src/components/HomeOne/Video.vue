@@ -32,7 +32,9 @@
                         <div class="popup-overlay-close-line"></div>
                     </div>
                     <div class="play-video">
-                        <iframe src="https://www.youtube.com/embed/bk7McNUjWgw"></iframe>
+                        <iframe src="https://www.facebook.com/plugins/video.php?height=452&href=https%3A%2F%2Fwww.facebook.com%2Fbrightgroupfb%2Fvideos%2F2844999089089155%2F&show_text=false&width=560&t=0"
+                        width="560" height="452" style="border:none;overflow:hidden" scrolling="no" 
+                        allow="autoplay; clipboard-write;encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
                     </div>
                 </div>
             </div>
